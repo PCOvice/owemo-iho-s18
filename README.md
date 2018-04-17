@@ -10,3 +10,9 @@ Aufgabenblatt  2:
 Aufgabenblatt  3:  
 Aufgabenblatt  4:  
 Aufgabenblatt  5:    
+
+
+
+- Was ist Issues?:
+Klickt ihr auf Issue, oben auf der Leiste, könnt ihr ein "new Issue" erstellen. Bei Issues könnt ihr Fragen über das Projekt stellen, was unklar ist, oder eventuell falsch ist. Das ist ein Issue, fast so was wie ein Forum unter uns. 
+
