@@ -14,12 +14,16 @@ Dies ist ein Projekt für OOP in Java.
 - Kinoticketsystem in progress...
 
 ## Richtiges Github-Using
-#### - Was ist Issues?:
+#### - Orga und Repo:
+Im Repo haben wir alle unsere Source-Codes in einer Art "Cloud" dies macht es angenehmer als Dropbox und co, da wir beim Speichern keine extra datei löschen und wieder laden müssen, da hilft unser "clone" weiter. 
+Wir sind eine Orga, hier gibt es keinen Owner, so hat jeder Adminrechte, der auch gleichzeitig Member vom Repo ist. 
+
+#### - Was sind Issues?:
 Klickt ihr auf Issue, oben auf der Leiste, könnt ihr ein "new Issue" erstellen. Bei Issues könnt ihr Fragen über das Projekt stellen, was unklar ist, oder eventuell falsch ist. Das ist ein Issue, fast so was wie ein Forum unter uns. Ihr könnt auf die Issues klicken und dann die Frage klären. 
 
 
 #### - Cloning und richtig commiten: 
-Bitte immer commiten, damit wir wissen was ihr geändert habt, sowohl beim Clonen der Projekte und dann einspeichern in unserem Repo, als auch auf dieser einfachen ReadMe-Datei. 
+Bitte beim commiten kommentieren was geändert wurde (bsp: Klasse hinzugefügt, Variablenname in Zeile x verändert. usw), damit wir wissen was ihr geändert habt, sowohl beim Clonen der Projekte und dann einspeichern in unserem Repo, als auch auf dieser einfachen ReadMe-Datei. 
 
 
 #### - Cloning:
