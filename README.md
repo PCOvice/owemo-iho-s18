@@ -13,6 +13,7 @@ Dies ist ein Projekt für OOP in Java.
 
 ## *Laborphase 2*
 
+- Kinoticketsystem in progress...
 
 ## Richtiges Github-Using
 
