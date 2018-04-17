@@ -10,7 +10,7 @@ import java.util.List;
  */
 abstract class AbstractObservableService implements ObservableService
 {
-
+    //KOMMENTAR
     /**
      * Die Liste der registrierten Beobachter.
      */
