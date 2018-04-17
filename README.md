@@ -17,11 +17,11 @@ Dies ist ein Projekt für OOP in Java.
 
 ## Richtiges Github-Using
 
-- Was ist Issues?:
+### - Was ist Issues?:
 Klickt ihr auf Issue, oben auf der Leiste, könnt ihr ein "new Issue" erstellen. Bei Issues könnt ihr Fragen über das Projekt stellen, was unklar ist, oder eventuell falsch ist. Das ist ein Issue, fast so was wie ein Forum unter uns. Ihr könnt auf die Issues klicken und dann die Frage klären. 
 
-- Cloning und richtig commiten: 
+### - Cloning und richtig commiten: 
 Bitte immer commiten, damit wir wissen was ihr geändert habt, sowohl beim Clonen der Projekte und dann einspeichern in unserem Repo, als auch auf dieser einfachen ReadMe-Datei. 
 
-- Cloning:
+### - Cloning:
 Schaut euch dazu videos an, wie ihr als Member Dinge cloned und dann wieder ins Repo stellt. Ist eigentlich easy und selbsterklärend. Sonst einfach nochmal in der Gruppe fragen. 
