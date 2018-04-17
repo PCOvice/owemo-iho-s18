@@ -27,4 +27,6 @@ Bitte beim commiten kommentieren was geändert wurde (bsp: Klasse hinzugefügt, 
 
 
 #### - Cloning:
-Schaut euch dazu videos an, wie ihr als Member Dinge cloned und dann wieder ins Repo stellt. Ist eigentlich easy und selbsterklärend. Sonst einfach nochmal in der Gruppe fragen. 
+Öffnet Eclipse. Klickt oben rechts auf "Quick Acess" und gibt ein "Git Repositories (Git)". Unten links sollte sich nun ein Fenster geöffnet haben. Ihr clickt nun das kleine Icon mit den grünen Pfeil (Clone a git Repository and add the clone to this view).
+Es wird euch nun nach einem Link gefragt, den kriegt ihr in dem ihr auf unser Dashboard vom Repo geht und dann auf "Download or Clone" klickt. Dort sollte ein Link mit "www.github...." stehen. Den kopiert ihr und fügt ihn wie gewünscht in eclipse ein. Vergisst dabei nicht euch unten mit eurer Gitkennung und Pw anzumelden. Danach einfach ganzezeit auf next klicken und zum schluss auf finish.
+Danach rechtsklick unten auf das erstellte Repo und dann auf "Import projects" klicken und dann auf finish. Nun habt ihr das Projekt!
