@@ -5,11 +5,11 @@ Dies ist ein Projekt für OOP in Java.
 
 - Aufgaben blatt i:       1. Status            2. Aufgaben
 
-- Aufgabenblatt  1:         1. erledigt          2. ---> 1.1: fertig, ----> 1.2: fertig ----> 1.3: fertig -----> 1.4: fertig               
-- Aufgabenblatt  2:  
-- Aufgabenblatt  3:  
-- Aufgabenblatt  4:  
-- Aufgabenblatt  5:    
+*Aufgabenblatt  1:*         1. erledigt          2. ---> 1.1: fertig, ----> 1.2: fertig ----> 1.3: fertig -----> 1.4: fertig               
+*Aufgabenblatt  2:*  
+*Aufgabenblatt  3:*  
+*Aufgabenblatt  4:*  
+*Aufgabenblatt  5:*    
 
 
 
