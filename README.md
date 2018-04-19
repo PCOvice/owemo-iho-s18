@@ -5,8 +5,10 @@ Dies ist ein Projekt für OOP in Java.
 *- Aufgaben blatt i:............Status..............Aufgaben*
 
 *Aufgabenblatt  1*:.............erledigt.......---> 1.1: fertig, ----> 1.2: fertig ----> 1.3: fertig -----> 1.4: fertig               
-*Aufgabenblatt  2:*  
-*Aufgabenblatt  3:*  
+/n
+*Aufgabenblatt  2:*.............erledigt.......---> 2.1: fertig -----> 2.2: fertig ----> 2.3: fertig -----> 2.4: gab es nicht
+/n
+*Aufgabenblatt  3:*.............erledigt.......---> 3.1: fertig ----> 3.2: fertig -----> 3.3: freiwillg (nichtfertig) 3.4: gab es nicht. 
 *Aufgabenblatt  4:*  
 *Aufgabenblatt  5:*    
 
