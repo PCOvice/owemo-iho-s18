@@ -1,4 +1,5 @@
-# owemo-iho-s18
+# in bearbeitung....
+# owemo-iho-s18 
 Dies ist ein Projekt für OOP in Java. 
 
 ## *Laborphase 1*    
@@ -9,14 +10,18 @@ Dies ist ein Projekt für OOP in Java.
 *Aufgabenblatt  2:*.............erledigt.......---> 2.1: fertig -----> 2.2: fertig ----> 2.3: fertig -----> 2.4: gab es nicht
 /n
 *Aufgabenblatt  3:*.............erledigt.......---> 3.1: fertig ----> 3.2: fertig -----> 3.3: freiwillg (nichtfertig) 3.4: gab es nicht. 
-*Aufgabenblatt  4:*  
-*Aufgabenblatt  5:*    
+*Aufgabenblatt  4:*.............erledigt ---> all
+*Aufgabenblatt  5:*.............erledigt ---> all
 
 ## *Laborphase 2*
-- Kinoticketsystem in progress...
+- Abstraktionen wurden schon erstellt. 
+- Vorhaben sind GUI´s, Testklassen, Pentests, Datensammlung usw.
+- Gruppe ist vollständig. 
+- Vorhaben: Repo erstellen. 
 
 ## Richtiges Github-Using
 #### - Orga und Repo:
+Github ist nicht gleich Git! Informiert euch was die Unterschiede sind.
 Im Repo haben wir alle unsere Source-Codes in einer Art "Cloud" dies macht es angenehmer als Dropbox und co, da wir beim Speichern keine extra datei löschen und wieder laden müssen, da hilft unser "clone" weiter. 
 Wir sind eine Orga, hier gibt es keinen Owner, so hat jeder Adminrechte, der auch gleichzeitig Member vom Repo ist. 
 
@@ -35,3 +40,4 @@ Danach rechtsklick unten auf das erstellte Repo und dann auf "Import projects" k
 
 #### - Commiten:
 Nun habt ihr den 
+
